@@ -23,4 +23,4 @@ Voy en 5-6 semestre de Ing de Sistemas de la UPB
 15. Julian
 16. Lucho
 
-![Saitama](C:\Users\raton\Pictures\OK.jpg)
+![Saitama](https://tshop.r10s.com/56f/7ac/10fc/1770/5076/0a65/eb33/11b3e98312c45444889cef.jpg)
