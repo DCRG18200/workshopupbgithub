@@ -1,5 +1,5 @@
 # Hola  
-Me llamo Diana Cristina Rodríguez García
+Me llamo Diana Cristina Rodríguez García  
 Voy en 5-6 semestre de Ing de Sistemas de la UPB  
 
 * [Facebook](https://www.facebook.com/DCRG18200)
@@ -19,7 +19,7 @@ Voy en 5-6 semestre de Ing de Sistemas de la UPB
 11. Milvia
 12. Arturo
 13. Mateo
-14. esteban
+14. Esteban
 15. Julian
 16. Lucho
 
