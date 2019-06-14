@@ -2,22 +2,16 @@
 Me llamo Diana Cristina Rodríguez García  
 Voy en 5-6 semestre de Ing de Sistemas de la UPB  
 
-1. Diana
-2. Miguel
-3. Hugo
-4. Sebastian
-5. Daniel
-6. Jesus
-7. Inti
-8. Sebastian
-9. Ricardo
-10. David
-11. Milvia
-12. Arturo
-13. Mateo
-14. Esteban
-15. Julian
-16. Lucho
+
+--------------- | ---------------
+1. Diana | 9. Ricardo
+2. Miguel | 10. David
+3. Hugo | 11. Milvia
+4. Sebastian | 12. Arturo
+5. Daniel | 13. Mateo
+6. Jesus | 14. Esteban
+7. Inti | 15. Julian
+8. Sebastian | 16. Lucho
 
 * [Facebook](https://www.facebook.com/DCRG18200)
 * [Instagram](https://www.instagram.com/dcrg2000/?hl=es-la)
