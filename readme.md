@@ -2,7 +2,7 @@
 Me llamo Diana Cristina Rodríguez García  
 Voy en 5-6 semestre de Ing de Sistemas de la UPB  
 
-
+Header | Header2
 --------------- | ---------------
 1. Diana | 9. Ricardo
 2. Miguel | 10. David
